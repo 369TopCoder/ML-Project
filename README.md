@@ -1,1 +1,1 @@
-# ML-Project (Internship)
+# ML-Project
